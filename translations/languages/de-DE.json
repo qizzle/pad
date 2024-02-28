@@ -1,0 +1,13 @@
+{
+  "title.name": "Pixel & Dragons",
+  "main.enter": "ENTER - Anwenden",
+  "main.start": "STARTEN",
+  "main.changelang": "SPRACHE WECHSELN",
+  "main.quit": "BEENDEN",
+  "main.by": "von",
+  "classes.title": "Klassen",
+  "classes.fighter": "Kämpfer",
+  "classes.ranger": "Ranger",
+  "classes.wizard": "Magier",
+  "classes.barbarian": "Barbar"
+}
